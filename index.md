@@ -1,8 +1,8 @@
 ---
 layout: landingpage
-title: Slab City
+title: SLAB CITY COMMUNITY GROUP, INC. - SCCGI
 header_type: hero
-subtitle: Off-grid community in California
+subtitle: Land for People Not for Profit
 ---
 
-Slab City, also called The Slabs, is an unincorporated, off-the-grid alternative lifestyle community consisting largely of snowbirds in the Salton Trough area of the Sonoran Desert, in Imperial County, California. It took its name from concrete slabs that remained after the World War II Marine Corps Camp Dunlap training camp was torn down. Slab City is known for attracting people who want to live outside mainstream society.
+SCCGI is a 501(c) (3) non-profit organization.
