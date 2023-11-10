@@ -5,7 +5,7 @@ header_type: hero
 permalink: /about
 ---
 
-# Our Mission
+### Our Mission
 The Slab City Community Group mission, goals and objectives are to empower Slab City Residents to:
 
 • organize, plan for, create, sustain and participate in our unique “off the grid” community through education and practice by building a prosperous and healthy community which incorporates artistic, agricultural and environmentally sound values and principles;
@@ -14,7 +14,7 @@ The Slab City Community Group mission, goals and objectives are to empower Slab 
 • allowing and encouraging affordable living space to low income, moderate income, elderly, and or disabled residents of Slab City;
 • to encourage Slab City Residents to engage in economic redevelopment and stability in Imperial County.
 
-# Why You Should Support SCCGI
+### Why You Should Support SCCGI
 SCCGI – LAND FOR PEOPLE, NOT FOR PROFIT
 
 The 21st Century world is far different than the Twentieth Century world. Old solutions lead to new problems. New problems seem to be without solution.
