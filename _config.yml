@@ -99,7 +99,9 @@ navbar:
     img     :  # An small image, try 30x30px
   nav:
   - title   : About # Label
-    url     : /about/ # url	
+    url     : /about/ # url
+  - title   : Contribute to SCCGI # Label
+    url     : /contribute/ # url
 #  - title   : # Label submenu
 #    child:		
 #    - title: # Child label		
