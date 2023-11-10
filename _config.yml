@@ -102,6 +102,8 @@ navbar:
     url     : /about/ # url
   - title   : Contribute to SCCGI # Label
     url     : /contribute/ # url
+  - title   : SCCGI Bylaws
+    url     : /bylaws/ # url
 #  - title   : # Label submenu
 #    child:		
 #    - title: # Child label		
