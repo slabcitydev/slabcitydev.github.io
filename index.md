@@ -1,5 +1,5 @@
 ---
-layout: lanndingpage
+layout: landingpage
 title: Slab City
 header_type: hero
 subtitle: Off-grid community in California
