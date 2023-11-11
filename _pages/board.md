@@ -40,13 +40,13 @@ permalink: /board
 * DIRECTOR
 
 ### ANDREW BOGMOSS
-{% raw %}<img src="/assets/Andrew.jpeg" alt="ANDREW BOGMOSS">{% endraw %}
+{% raw %}<img src="/assets/Andrew.jpg" alt="ANDREW BOGMOSS">{% endraw %}
 * DIRECTOR
 * (310) 344-7264
 * Slab City resident since 2015
 
 ### JOSEPH EPHRAIM
-{% raw %}<img src="/assets/Joseph.jpeg" alt="JOSEPH EPHRAIM">{% endraw %}
+{% raw %}<img src="/assets/Joseph.jpg" alt="JOSEPH EPHRAIM">{% endraw %}
 * DIRECTOR
 * Slab City resident since 2019
 
