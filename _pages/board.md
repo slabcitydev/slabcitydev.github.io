@@ -28,3 +28,13 @@ permalink: /board
 ### P. WYATT SABOURIN
 {% raw %}<img src="/assets/SCCGI-LOGO-2.jpg" alt="P. WYATT SABOURIN">{% endraw %}
 * DIRECTOR
+
+### ANDRA SLABURBIA
+{% raw %}<img src="/assets/andra.jpeg" alt="ANDRA SLABURBIA">{% endraw %}
+* DIRECTOR
+* (310) 901-5098
+* Slab City resident since 2011
+
+### EOHKKA BEAIVI
+{% raw %}<img src="/assets/SCCGI-LOGO-2.jpg" alt="EOHKKA BEAIVI">{% endraw %}
+* DIRECTOR
