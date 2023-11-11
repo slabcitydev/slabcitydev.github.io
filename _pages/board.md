@@ -24,3 +24,7 @@ permalink: /board
 ### TERI BARNETT
 {% raw %}<img src="/assets/SCCGI-LOGO-2.jpg" alt="TERI BARNETT">{% endraw %}
 * SECRETARY
+
+### P. WYATT SABOURIN
+{% raw %}<img src="/assets/SCCGI-LOGO-2.jpg" alt="P. WYATT SABOURIN">{% endraw %}
+* DIRECTOR
