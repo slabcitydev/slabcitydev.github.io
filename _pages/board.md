@@ -38,3 +38,9 @@ permalink: /board
 ### EOHKKA BEAIVI
 {% raw %}<img src="/assets/SCCGI-LOGO-2.jpg" alt="EOHKKA BEAIVI">{% endraw %}
 * DIRECTOR
+
+### ANDREW BOGMOSS
+{% raw %}<img src="/assets/Andrew.jpeg" alt="ANDREW BOGMOSS">{% endraw %}
+* DIRECTOR
+* (310) 344-7264
+* Slab City resident since 2015
