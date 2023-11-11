@@ -49,3 +49,11 @@ permalink: /board
 {% raw %}<img src="/assets/Joseph.jpeg" alt="JOSEPH EPHRAIM">{% endraw %}
 * DIRECTOR
 * Slab City resident since 2019
+
+### SARA JANE BANGERANG
+{% raw %}<img src="/assets/SCCGI-LOGO-2.jpg" alt="SARA JANE BANGERANG">{% endraw %}
+* DIRECTOR
+
+### JENNIFER BOWERS
+{% raw %}<img src="/assets/SCCGI-LOGO-2.jpg" alt="JENNIFER BOWERS">{% endraw %}
+* DIRECTOR
