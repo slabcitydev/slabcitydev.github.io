@@ -44,3 +44,8 @@ permalink: /board
 * DIRECTOR
 * (310) 344-7264
 * Slab City resident since 2015
+
+### JOSEPH EPHRAIM
+{% raw %}<img src="/assets/Andrew.jpeg" alt="JOSEPH EPHRAIM">{% endraw %}
+* DIRECTOR
+* Slab City resident since 2019
