@@ -46,6 +46,6 @@ permalink: /board
 * Slab City resident since 2015
 
 ### JOSEPH EPHRAIM
-{% raw %}<img src="/assets/Andrew.jpeg" alt="JOSEPH EPHRAIM">{% endraw %}
+{% raw %}<img src="/assets/Joseph.jpeg" alt="JOSEPH EPHRAIM">{% endraw %}
 * DIRECTOR
 * Slab City resident since 2019
