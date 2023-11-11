@@ -11,3 +11,7 @@ permalink: /board
 * PRESIDENT
 * (442) 258-8780
 * Slab City resident since 1998
+
+{% raw %}<img src="/assets/SCCGI-LOGO-2.jpg" alt="BILL AMMON">{% endraw %}
+### PETER TATE
+* VICE PRESIDENT
