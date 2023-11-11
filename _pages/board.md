@@ -20,3 +20,7 @@ permalink: /board
 {% raw %}<img src="/assets/marty.jpg" alt="MARTY MAURER">{% endraw %}
 * TREASURER
 * (916) 949-3954
+
+### TERI BARNETT
+{% raw %}<img src="/assets/SCCGI-LOGO-2.jpg" alt="TERI BARNETT">{% endraw %}
+* SECRETARY
