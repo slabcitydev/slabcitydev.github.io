@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Board of Directors
+title: SCCGI Board of Directors
+subtitle: Officer Elections To Be Held Yearly
 header_type: hero
 permalink: /board
 ---
