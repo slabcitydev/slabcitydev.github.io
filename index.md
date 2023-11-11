@@ -2,6 +2,7 @@
 layout: landingpage
 title: SLAB CITY COMMUNITY GROUP, INC. - SCCGI
 header_type: hero
+header_img: assets/sccgb.jpeg
 subtitle: Land for People, Not for Profit
 ---
 
